@@ -16,7 +16,7 @@ export default function RootLayout() {
         esse tipo vem do proprio React, o que nós vamos fazer é usar isso a nosso favor
       */
       
-
+      <Stack.Screen name='(groups)/login.tsx' />
       <Stack.Screen name='(groups)/index.tsx'/>
       <Stack.Screen name="(groups)/newRedacao"/>
       <Stack.Screen name="(groups)/novomodelo.tsx"/>
